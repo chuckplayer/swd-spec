@@ -1,0 +1,5705 @@
+{
+  "sets": [
+    {
+      "name": "Awakenings",
+      "cards": [
+        {
+          "image": "",
+          "card": 1,
+          "rarity": "Legendary",
+          "title": "Captain Phasma- Elite Trooper",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Character",
+          "health": 11,
+          "points": [
+            12,
+            15
+          ],
+          "text": "Your non-unique characters have the Guardian keyword.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 2,
+          "rarity": "Rare",
+          "title": "First Order Stormtrooper",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Character",
+          "health": 7,
+          "points": [
+            7
+          ],
+          "text": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 3,
+          "rarity": "Rare",
+          "title": "General Grievous - Jedi Hunter",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            10
+          ],
+          "text": "Before an opponent's character is defeated, you may move one of their non-ability upgrades to this character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 4,
+          "rarity": "Rare",
+          "title": "General Veers- Field Commander",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Character",
+          "health": 9,
+          "points": [
+            9
+          ],
+          "text": "Action- Remove this die to turn one of your support dice to any side.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 5,
+          "rarity": "Legendary",
+          "title": "AT-ST",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Support",
+          "cost": 6,
+          "text": "Special - Discard a support from play.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 4,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 5,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 6,
+          "rarity": "Rare",
+          "title": "First Order TIE Fighter",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Support",
+          "cost": 3,
+          "text": "Special - Remove all shield from all of an opponent's characters.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 7,
+          "rarity": "Legendary",
+          "title": "Commanding Presence",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Red character only. Special - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 8,
+          "rarity": "Starter",
+          "title": "F-11D Rifle",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Redeploy. Special - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 1,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 9,
+          "rarity": "Rare",
+          "title": "Count Dooku - Devious Strategist",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            11,
+            15
+          ],
+          "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 10,
+          "rarity": "Legendary",
+          "title": "Darth Vader- Sith Lord",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Character",
+          "health": 13,
+          "points": [
+            16,
+            21
+          ],
+          "text": "After you activate this character you may force an opponent to choose and discard a card from their hand.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 11,
+          "rarity": "Starter",
+          "title": "Kylo Ren- Vader's Disciple",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Character",
+          "health": 11,
+          "points": [
+            10,
+            13
+          ],
+          "text": "Special - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 12,
+          "rarity": "Rare",
+          "title": "Nightsister",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Character",
+          "health": 7,
+          "points": [
+            8
+          ],
+          "text": "Action- Remove a die. Deal 1 damage to this character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 13,
+          "rarity": "Legendary",
+          "title": "Force Choke",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Blue character only. Special - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 14,
+          "rarity": "Rare",
+          "title": "Immobilize",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Blue character only. Action- Remove this die to turn a die to a side showing a blank.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 15,
+          "rarity": "Legendary",
+          "title": "Kylo Ren's Lightsaber",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Blue character only. Special - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 2,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 3,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 16,
+          "rarity": "Rare",
+          "title": "Sith Holocron",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 0,
+          "text": "Special - Switch this upgrade with a Blue ability upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 17,
+          "rarity": "Rare",
+          "title": "Infantry Grenades",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Grey",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Special - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 18,
+          "rarity": "Rare",
+          "title": "Speeder Bike Scout",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Grey",
+          "type": "Support",
+          "cost": 3,
+          "text": "Special - Remove a die. You may take one additional action.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 19,
+          "rarity": "Rare",
+          "title": "Bala-Tik - Gang Leader",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 8,
+          "points": [
+            8,
+            11
+          ],
+          "text": "After an opponent's character is defeated, you may ready this character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 20,
+          "rarity": "Legendary",
+          "title": "Jabba the Hutt - The Great and Mighty",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 11,
+          "points": [
+            11,
+            14
+          ],
+          "text": "After you activate this character, you may reroll a Yellow die.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 21,
+          "rarity": "Rare",
+          "title": "Jango Fett- Lethal Mercenary",
+          "side": true,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            12,
+            16
+          ],
+          "text": "After an opponent activates a character, you may activate this character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 22,
+          "rarity": "Rare",
+          "title": "Tusken Raider",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 8,
+          "points": [
+            9
+          ],
+          "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 23,
+          "rarity": "Legendary",
+          "title": "Crime Lord",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 4,
+          "text": "Special - Spend 5 resources to choose a character. That character is defeated after this round ends.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 24,
+          "rarity": "Rare",
+          "title": "Flame Thrower",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Special - Deal 1 damage each to up to 3 different characters.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 4,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 25,
+          "rarity": "Rare",
+          "title": "Gaffi Stick",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Redeploy. Special - Remove one of your dice showing melee damage to deal 3 damage to a character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 2,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 26,
+          "rarity": "Rare",
+          "title": "On the Hunt",
+          "side": true,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Special - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 0,
+              "modification": 1,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 1,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 27,
+          "rarity": "Rare",
+          "title": "Admiral Ackbar- Perceptive Tactician",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Character",
+          "health": 9,
+          "points": [
+            10,
+            14
+          ],
+          "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 28,
+          "rarity": "Rare",
+          "title": "Leia Organa- Born Leader",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Character",
+          "health": 11,
+          "points": [
+            12,
+            16
+          ],
+          "text": "Action - Remove this die to reroll up to 2 of your dice.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 29,
+          "rarity": "Legendary",
+          "title": "Poe Dameron- Ace Pilot",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Character",
+          "health": 12,
+          "points": [
+            14,
+            18
+          ],
+          "text": "Special - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a vehicle card, you may pay its cost to play it from your discard pile.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 30,
+          "rarity": "Rare",
+          "title": "Rebel Trooper",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Character",
+          "health": 7,
+          "points": [
+            8
+          ],
+          "text": "Guardian",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 1,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 31,
+          "rarity": "Legendary",
+          "title": "Launch Bay",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Support",
+          "cost": 5,
+          "text": "The X on this die is equal to the number of cards in your hand.",
+          "dice": [
+            {
+              "image": "",
+              "text": "X",
+              "side": 1,
+              "value": 0,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "text": "X",
+              "side": 2,
+              "value": 0,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "text": "X",
+              "side": 3,
+              "value": 0,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "text": "X",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "text": "X",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "text": "X",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 32,
+          "rarity": "Legendary",
+          "title": "Black One",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Support",
+          "cost": 4,
+          "text": "Special - Deal 1 damage to a character. Reroll this die instead of removing it from your pool.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 33,
+          "rarity": "Rare",
+          "title": "Scout",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie).",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 34,
+          "rarity": "Rare",
+          "title": "Survival Gear",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "To hide from the Empire, the rebels must often brave harsh environments.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 35,
+          "rarity": "Legendary",
+          "title": "Luke Skywalker - Jedi Knight",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Character",
+          "health": 12,
+          "points": [
+            15,
+            20
+          ],
+          "text": "After you activate this character, draw a card.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 36,
+          "rarity": "Rare",
+          "title": "Padawan",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Character",
+          "health": 7,
+          "points": [
+            8
+          ],
+          "text": "While this character does not have an upgrade, the cost to attach a weapon to it is decreased by 1.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 37,
+          "rarity": "Rare",
+          "title": "Qui-Gon Jinn- Ataru Master",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Character",
+          "health": 11,
+          "points": [
+            13,
+            17
+          ],
+          "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 38,
+          "rarity": "Starter",
+          "title": "Rey - Force Prodigy",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            9,
+            12
+          ],
+          "text": "After you play an upgrade on this character, you may take one additional action.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 2,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 39,
+          "rarity": "Rare",
+          "title": "Force Protection",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Blue character only. Special - Give 3 shields to your characters, distributed as you wish.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 40,
+          "rarity": "Rare",
+          "title": "Jedi Robes",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 41,
+          "rarity": "Legendary",
+          "title": "Luke Skywalker's Lightsaber",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Special - Give a character 2 shields or deal 2 unblockable damage to a character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 3,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 42,
+          "rarity": "Legendary",
+          "title": "One with The Force",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 4,
+          "text": "Blue character only. Before attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready).",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 3,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 3,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 2,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 43,
+          "rarity": "Rare",
+          "title": "BB-8",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Grey",
+          "type": "Support",
+          "cost": 1,
+          "text": "Special - Reroll this die and one of your other dice. Do not remove this die from your pool after resolving this ability.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 44,
+          "rarity": "Rare",
+          "title": "Rey's Staff",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Grey",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Special - Remove a die showing damage.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 3,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 45,
+          "rarity": "Starter",
+          "title": "Finn- First Order Defector",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            13,
+            16
+          ],
+          "text": "You can attach any weapon to this character, ignoring play restrictions. You can include Red Villain weapons and vehicles in your deck.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 46,
+          "rarity": "Legendary",
+          "title": "Han Solo- Scoundrel",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            14,
+            18
+          ],
+          "text": "After you play a card with the Ambush keyword, you may give this character 1 shield.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 47,
+          "rarity": "Rare",
+          "title": "Hired Gun",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 9,
+          "points": [
+            8
+          ],
+          "text": "'You needn't worry about your reward. If money is all that you love, then that's what you'll receive.' Leia Organa",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 48,
+          "rarity": "Rare",
+          "title": "Padme Amidala- Queen of Naboo",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Character",
+          "health": 10,
+          "points": [
+            10,
+            14
+          ],
+          "text": "Special - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 49,
+          "rarity": "Legendary",
+          "title": "Millennium Falcon",
+          "side": true,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 5,
+          "text": "Special - Play a Yellow event from your discard pile or hand for free.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 4,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 3,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 2,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 50,
+          "rarity": "Rare",
+          "title": "Diplomatic Immunity",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 4,
+          "text": "The shields from this die can be given to any of your characters distributed as you wish.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 3,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 3,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 51,
+          "rarity": "Rare",
+          "title": "DL-44 Heavy Blaster Pistol",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Ambush. After you play this upgrade, force an opponent to choose and remove one of their dice.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 52,
+          "rarity": "Rare",
+          "title": "Infiltrate",
+          "side": true,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Special - Reroll up to 2 of an opponent's dice.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 53,
+          "rarity": "Rare",
+          "title": "Outpost",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Support",
+          "cost": 2,
+          "text": "Special - Resolve the battlefield ability as if you had just claimed it.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 54,
+          "rarity": "Rare",
+          "title": "DH-17 Blaster Pistol",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "The weapon of choice for rebel soldiers and imperial officers alike during the Galactic Civil War.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 55,
+          "rarity": "Rare",
+          "title": "IQA-11 Blaster Rifle",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Special - Deal 2 unblockable damage to a character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 3,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 56,
+          "rarity": "Rare",
+          "title": "Promotion",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Red character only. After you play this upgrade, you may draw a card.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 0,
+              "modification": 1,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 1,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 57,
+          "rarity": "Starter",
+          "title": "Force Throw",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Special - Blue Character Only.  Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes).",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 58,
+          "rarity": "Rare",
+          "title": "Force Training",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "To play, spot a Blue character.  Special - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 2,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 59,
+          "rarity": "Starter",
+          "title": "Lightsaber",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Redeploy. Special - Deal 2 unblockable damage to a character.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 0,
+              "modification": 3,
+              "type": "Melee",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 2,
+              "type": "Melee",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 60,
+          "rarity": "Starter",
+          "title": "Mind Probe",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 4,
+          "text": "Blue Character only. Special - Deal an opponent's character 1 damage for each card in that opponent's hand.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 3,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 61,
+          "rarity": "Rare",
+          "title": "Comlink",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 62,
+          "rarity": "Rare",
+          "title": "Datapad",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Special - Turn one of your dice to a side not showing damage.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 1,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 63,
+          "rarity": "Rare",
+          "title": "Holdout Blaster",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Ambush. Redeploy.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Range",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 64,
+          "rarity": "Rare",
+          "title": "Black Market",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 3,
+          "text": "Special - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 65,
+          "rarity": "Rare",
+          "title": "Cunning",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Yellow character only. Special  - Resolve a special ability on another card in play as if it were your card.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Focus",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 66,
+          "rarity": "Rare",
+          "title": "Jetpack",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 2,
+          "text": "Special - Remove a die showing melee damage and give attached character 1 shield.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 0,
+              "modification": 2,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 0,
+              "modification": 3,
+              "type": "Range",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Disrupt",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 2,
+              "modification": 0,
+              "type": "Shield",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 67,
+          "rarity": "Legendary",
+          "title": "Thermal Detonator",
+          "side": true,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "To play, spot a Yellow character. Special  - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play.",
+          "dice": [
+            {
+              "image": "",
+              "side": 1,
+              "value": 1,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 2,
+              "value": 2,
+              "modification": 0,
+              "type": "Discard",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 3,
+              "value": 1,
+              "modification": 0,
+              "type": "Resource",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 4,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 1
+            },
+            {
+              "image": "",
+              "side": 5,
+              "value": 0,
+              "modification": 0,
+              "type": "Special",
+              "cost": 0
+            },
+            {
+              "image": "",
+              "side": 6,
+              "value": 0,
+              "modification": 0,
+              "type": "Blank",
+              "cost": 0
+            }
+          ]
+        },
+        {
+          "image": "",
+          "card": 68,
+          "rarity": "Common",
+          "title": "Cannon Fodder",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Deal one of your non-unique characters damage equal to the value of an opponent's die showing damage. Then remove that die."
+        },
+        {
+          "image": "",
+          "card": 69,
+          "rarity": "Common",
+          "title": "Closing the Net",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Force an opponent to choose and remove one of their dice. You may place this event on the bottom of your deck instead of discarding it."
+        },
+        {
+          "image": "",
+          "card": 70,
+          "rarity": "Uncommon",
+          "title": "Endless Ranks",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 5,
+          "text": "Return one of your defeated non-unique Red characters to the game with no damage on it."
+        },
+        {
+          "image": "",
+          "card": 71,
+          "rarity": "Common",
+          "title": "Occupation",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 2,
+          "text": "Play only if you control the battlefield. Force an opponent to lose all of their resources."
+        },
+        {
+          "image": "",
+          "card": 72,
+          "rarity": "Common",
+          "title": "Probe",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Look at two random cards from your opponent's hand. Discard any of these cards that are events."
+        },
+        {
+          "image": "",
+          "card": 73,
+          "rarity": "Common",
+          "title": "Sweep the Area",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Count the number of ready Red characters you have. Reroll that many of an opponent's dice."
+        },
+        {
+          "image": "",
+          "card": 74,
+          "rarity": "Uncommon",
+          "title": "Tactical Mastery",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Spot a Red character to take up to 2 additional actions."
+        },
+        {
+          "image": "",
+          "card": 75,
+          "rarity": "Uncommon",
+          "title": "The Best Defense...",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice."
+        },
+        {
+          "image": "",
+          "card": 76,
+          "rarity": "Common",
+          "title": "Drudge Work",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Support",
+          "cost": 0,
+          "text": "Action- Exhaust this support and one of your characters to gain 1 resource."
+        },
+        {
+          "image": "",
+          "card": 77,
+          "rarity": "Uncommon",
+          "title": "Local Garrison",
+          "side": false,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Support",
+          "cost": 3,
+          "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1."
+        },
+        {
+          "image": "",
+          "card": 78,
+          "rarity": "Common",
+          "title": "Personal Escort",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Red",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Attached character has theGuardiankeyword."
+        },
+        {
+          "image": "",
+          "card": 79,
+          "rarity": "Common",
+          "title": "Abandon All Hope",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 2,
+          "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand."
+        },
+        {
+          "image": "",
+          "card": 80,
+          "rarity": "Common",
+          "title": "Boundless Ambition",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Draw cards up to your hand size."
+        },
+        {
+          "image": "",
+          "card": 81,
+          "rarity": "Common",
+          "title": "Enrage",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 0,
+          "text": "Deal 1 damage to one of your Blue characters to gain 1 resource."
+        },
+        {
+          "image": "",
+          "card": 82,
+          "rarity": "Common",
+          "title": "Feel Your Anger",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Count the number of blanks showing on an opponent's dice. Remove that many of their dice."
+        },
+        {
+          "image": "",
+          "card": 83,
+          "rarity": "Uncommon",
+          "title": "Force Strike",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Turn one of your blue dice to the side showing melee damage, then you may resolve it immediately."
+        },
+        {
+          "image": "",
+          "card": 84,
+          "rarity": "Common",
+          "title": "Intimidate",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 0,
+          "text": "Remove all shields from a character."
+        },
+        {
+          "image": "",
+          "card": 85,
+          "rarity": "Common",
+          "title": "Isolation",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Spot a Blue character to remove a character die."
+        },
+        {
+          "image": "",
+          "card": 86,
+          "rarity": "Uncommon",
+          "title": "No Mercy",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 2,
+          "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage, increasing its value by 1 for each card you just discarded."
+        },
+        {
+          "image": "",
+          "card": 87,
+          "rarity": "Common",
+          "title": "Pulling the Strings",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 0,
+          "text": "Look at the top 3 cards of any deck. Then place those cards on the top and/or bottom of that deck in any order."
+        },
+        {
+          "image": "",
+          "card": 88,
+          "rarity": "Uncommon",
+          "title": "Emperor's Favor",
+          "side": false,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Support",
+          "cost": 1,
+          "text": "Your hand size is increased by 1."
+        },
+        {
+          "image": "",
+          "card": 89,
+          "rarity": "Starter",
+          "title": "Power of the Dark Side",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Support",
+          "cost": 2,
+          "text": "Action- Exhaust this support to reroll one of your dice. If that die rolls a blank, deal 2 unblockable damage to a character."
+        },
+        {
+          "image": "",
+          "card": 90,
+          "rarity": "Uncommon",
+          "title": "Hidden In Shadow",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Blue",
+          "type": "Upgrade",
+          "cost": 1,
+          "text": "Action - If the character this card is attached to does not have any shields, you can exhaust this card to place one shield on that character."
+        },
+        {
+          "image": "",
+          "card": 91,
+          "rarity": "Uncommon",
+          "title": "Nowhere to Run",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 2,
+          "text": "Turn each of your dice showing a blank to any side."
+        },
+        {
+          "image": "",
+          "card": 92,
+          "rarity": "Uncommon",
+          "title": "Ace in the Hole",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Discard a Yellow upgrade from your hand to roll its die into your pool, if able. Set aside that die after it is resolved or removed."
+        },
+        {
+          "image": "",
+          "card": 93,
+          "rarity": "Common",
+          "title": "Armed to the Teeth",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Discard any number of upgrades from one of your Yellow characters. Then deal damage to a character equal to the number of upgrades you just discarded."
+        },
+        {
+          "image": "",
+          "card": 94,
+          "rarity": "Uncommon",
+          "title": "Confiscation",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand."
+        },
+        {
+          "image": "",
+          "card": 95,
+          "rarity": "Uncommon",
+          "title": "Fight Dirty",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 1,
+          "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed."
+        },
+        {
+          "image": "",
+          "card": 96,
+          "rarity": "Common",
+          "title": "Go for the Kill",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Resolve one of your dice showing ranged damage, treating this damage as unblockable."
+        },
+        {
+          "image": "",
+          "card": 97,
+          "rarity": "Common",
+          "title": "He Doesn't Like You",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Remove one of your dice to remove an opponent's die."
+        },
+        {
+          "image": "",
+          "card": 98,
+          "rarity": "Common",
+          "title": "Lying in Wait",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 1,
+          "text": "Force an opponent to discard cards from their hand, until they hold the same amount of cards as you do."
+        },
+        {
+          "image": "",
+          "card": 99,
+          "rarity": "Common",
+          "title": "Backup Muscle",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 1,
+          "text": "When you play this card place three single damage tokens on it. Action - Exhaust this card to move one damage token from it to an opponent's character of your choice."
+        },
+        {
+          "image": "",
+          "card": 100,
+          "rarity": "Common",
+          "title": "My Kind of Scum",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 1,
+          "text": "After you resolve a die showing disrupt, you may exhaust this support to gain resources equal to the number of resources your opponent just lost."
+        },
+        {
+          "image": "",
+          "card": 101,
+          "rarity": "Uncommon",
+          "title": "Underworld Connections",
+          "side": false,
+          "unique": false,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 2,
+          "text": "Action - Exhaust this support to gain 1 resource"
+        },
+        {
+          "image": "",
+          "card": 102,
+          "rarity": "Uncommon",
+          "title": "Prized Possession",
+          "side": false,
+          "unique": true,
+          "affiliation": "Villain",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 4,
+          "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play."
+        },
+        {
+          "image": "",
+          "card": 103,
+          "rarity": "Uncommon",
+          "title": "Commando Raid",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Resolve one of your Red dice showing discard, increasing its value by 2. Then draw a card."
+        },
+        {
+          "image": "",
+          "card": 104,
+          "rarity": "Common",
+          "title": "Defensive Position",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Play only if you control the battlefield. Remove all of an opponent's dice showing a value of 2 or higher."
+        },
+        {
+          "image": "",
+          "card": 105,
+          "rarity": "Common",
+          "title": "Field Medic",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Remove 2 damage from a character."
+        },
+        {
+          "image": "",
+          "card": 106,
+          "rarity": "Common",
+          "title": "Hit and Run",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Ambush. Activate one of your Red characters."
+        },
+        {
+          "image": "",
+          "card": 107,
+          "rarity": "Uncommon",
+          "title": "It's a Trap!",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Ambush. Choose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
+        },
+        {
+          "image": "",
+          "card": 108,
+          "rarity": "Common",
+          "title": "Natural Talent",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Resolve one of your dice, increasing its value by 1."
+        },
+        {
+          "image": "",
+          "card": 109,
+          "rarity": "Uncommon",
+          "title": "Rearm",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1."
+        },
+        {
+          "image": "",
+          "card": 110,
+          "rarity": "Uncommon",
+          "title": "Retreat",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 2,
+          "text": "Your opponent may take 1 action. Then end the action phase."
+        },
+        {
+          "image": "",
+          "card": 111,
+          "rarity": "Common",
+          "title": "Strategic Planning",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Ready or exhaust a support."
+        },
+        {
+          "image": "",
+          "card": 112,
+          "rarity": "Common",
+          "title": "Surgical Strike",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Remove any number of your Red dice showing ranged damage, increasing each of their values by 1, to discard a support from play that costs equal to or less than the combined value of those dice."
+        },
+        {
+          "image": "",
+          "card": 113,
+          "rarity": "Uncommon",
+          "title": "Resistance HQ",
+          "side": false,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Red",
+          "type": "Support",
+          "cost": 2,
+          "text": "Action - Exhaust this support and discard a card from your hand to give a character 1 shield. Then ready this support unless an opponent spends 1 resource."
+        },
+        {
+          "image": "",
+          "card": 114,
+          "rarity": "Uncommon",
+          "title": "Anticipate",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 2,
+          "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they did not resolve."
+        },
+        {
+          "image": "",
+          "card": 115,
+          "rarity": "Common",
+          "title": "Defensive Stance",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Give a character 2 shields."
+        },
+        {
+          "image": "",
+          "card": 116,
+          "rarity": "Common",
+          "title": "Force Misdirection",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Choose a symbol showing on one of your Blue dice. Then remove all of an opponent's dice showing that symbol."
+        },
+        {
+          "image": "",
+          "card": 117,
+          "rarity": "Common",
+          "title": "Heroism",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 0,
+          "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage. Then remove that die."
+        },
+        {
+          "image": "",
+          "card": 118,
+          "rarity": "Common",
+          "title": "Noble Sacrifice",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 0,
+          "text": "Defeat one of your Blue characters to exhaust a character."
+        },
+        {
+          "image": "",
+          "card": 119,
+          "rarity": "Common",
+          "title": "Patience",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Remove any number of your dice. Then discard cards from the top of an opponent's deck equal to the number of dice you just removed."
+        },
+        {
+          "image": "",
+          "card": 120,
+          "rarity": "Uncommon",
+          "title": "Return of the Jedi",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Add a blue event from your discard pile to your hand."
+        },
+        {
+          "image": "",
+          "card": 121,
+          "rarity": "Common",
+          "title": "Riposte",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 0,
+          "text": "Remove any number of shields from one of your characters. Then deal damage to a character equal to the number of shields you just removed."
+        },
+        {
+          "image": "",
+          "card": 122,
+          "rarity": "Uncommon",
+          "title": "Willpower",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Move 1 damage from one of your exhausted characters to an opponent's exhausted character (this ignores shields)."
+        },
+        {
+          "image": "",
+          "card": 123,
+          "rarity": "Uncommon",
+          "title": "Jedi Council",
+          "side": false,
+          "unique": true,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Support",
+          "cost": 2,
+          "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other."
+        },
+        {
+          "image": "",
+          "card": 124,
+          "rarity": "Starter",
+          "title": "Awakening",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Support",
+          "cost": 1,
+          "text": "Action - Exhaust this support to resolve one of your dice showing a modified side (a side with a +) as if it was not modified (did not have the +)."
+        },
+        {
+          "image": "",
+          "card": 125,
+          "rarity": "Common",
+          "title": "The Force is Strong",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Blue",
+          "type": "Support",
+          "cost": 1,
+          "text": "Action - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free."
+        },
+        {
+          "image": "",
+          "card": 126,
+          "rarity": "Uncommon",
+          "title": "Daring Escape",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 2,
+          "text": "Ambush. Reroll any number of an opponent's dice. Then remove all of their dice showing blanks."
+        },
+        {
+          "image": "",
+          "card": 127,
+          "rarity": "Common",
+          "title": "Don't Get Cocky",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Each player draws 2 cards."
+        },
+        {
+          "image": "",
+          "card": 128,
+          "rarity": "Common",
+          "title": "Draw Attention",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields)."
+        },
+        {
+          "image": "",
+          "card": 129,
+          "rarity": "Uncommon",
+          "title": "Hyperspace Jump",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 3,
+          "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used."
+        },
+        {
+          "image": "",
+          "card": 130,
+          "rarity": "Uncommon",
+          "title": "Let The Wookie Win",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 1,
+          "text": "Force an opponent to choose to either deal one of their exhausted characters 2 damage or choose and remove 2 of their dice."
+        },
+        {
+          "image": "",
+          "card": 131,
+          "rarity": "Common",
+          "title": "Negotiate",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 1,
+          "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice."
+        },
+        {
+          "image": "",
+          "card": 132,
+          "rarity": "Common",
+          "title": "Scavenge",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Discard the top 3 cards of your deck. Then you may add an upgrade or support from your discard pile to your hand."
+        },
+        {
+          "image": "",
+          "card": 133,
+          "rarity": "Uncommon",
+          "title": "Shoot First",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 1,
+          "text": "Resolve one of your Yellow dice showing ranged damage. Then remove an opponent's die showing ranged damage."
+        },
+        {
+          "image": "",
+          "card": 134,
+          "rarity": "Common",
+          "title": "Smuggling",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Spot a Yellow character and discard a card from your hand to gain 1 resource."
+        },
+        {
+          "image": "",
+          "card": 135,
+          "rarity": "Uncommon",
+          "title": "Play the Odds",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 1,
+          "text": "Action- Exhaust this support to reroll one of your Yellow dice. If it rolls a resource, gain 1 resource."
+        },
+        {
+          "image": "",
+          "card": 136,
+          "rarity": "Common",
+          "title": "Street Informants",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 0,
+          "text": "Action- Exhaust this support to look at an opponent's hand."
+        },
+        {
+          "image": "",
+          "card": 137,
+          "rarity": "Uncommon",
+          "title": "Second Chance",
+          "side": false,
+          "unique": false,
+          "affiliation": "Hero",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 3,
+          "text": "Yellow character only. Before attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
+        },
+        {
+          "image": "",
+          "card": 138,
+          "rarity": "Common",
+          "title": "Award Ceremony",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Spot a Red character to draw cards equal to the number of exhausted characters you have."
+        },
+        {
+          "image": "",
+          "card": 139,
+          "rarity": "Uncommon",
+          "title": "Dug in",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Play only if you control the battlefield. Give 3 shields to your characters, distributed as you wish."
+        },
+        {
+          "image": "",
+          "card": 140,
+          "rarity": "Common",
+          "title": "Firepower",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Resolve one of your Red dice showing ranged damage, increasing its value by 1, or by 2 instead if you are resolving a vehicle die."
+        },
+        {
+          "image": "",
+          "card": 141,
+          "rarity": "Uncommon",
+          "title": "Leadership",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Event",
+          "cost": 1,
+          "text": "Exhaust one of your unique Red characters to ready another character."
+        },
+        {
+          "image": "",
+          "card": 142,
+          "rarity": "Common",
+          "title": "Logistics",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Spot a red character to resolve a die with the resource symbol, increasing its value by 1."
+        },
+        {
+          "image": "",
+          "card": 143,
+          "rarity": "Common",
+          "title": "Squad Tactics",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Event",
+          "cost": 0,
+          "text": "Activate any number of your non-unique characters at once."
+        },
+        {
+          "image": "",
+          "card": 144,
+          "rarity": "Uncommon",
+          "title": "Supporting Fire",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Red",
+          "type": "Support",
+          "cost": 2,
+          "text": "Action- Exhaust this support to resolve one of your dice showing ranged damage, increasing its value by 1."
+        },
+        {
+          "image": "",
+          "card": 145,
+          "rarity": "Common",
+          "title": "Deflect",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Spot a Blue character to remove a die showing ranged damage and deal half of that damage, rounded up, to a character."
+        },
+        {
+          "image": "",
+          "card": 146,
+          "rarity": "Common",
+          "title": "Disturbance in the Force",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Reroll all dice."
+        },
+        {
+          "image": "",
+          "card": 147,
+          "rarity": "Uncommon",
+          "title": "Mind Trick",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 2,
+          "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
+        },
+        {
+          "image": "",
+          "card": 148,
+          "rarity": "Common",
+          "title": "The Power of the Force",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Resolve one of your dice, treating its value as equal to the number of Blue upgrades you have in play."
+        },
+        {
+          "image": "",
+          "card": 149,
+          "rarity": "Starter",
+          "title": "Use The Force",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Event",
+          "cost": 1,
+          "text": "Spot a Blue character to turn a die to any side."
+        },
+        {
+          "image": "",
+          "card": 150,
+          "rarity": "Uncommon",
+          "title": "It Binds All Things",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Blue",
+          "type": "Support",
+          "cost": 1,
+          "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1."
+        },
+        {
+          "image": "",
+          "card": 151,
+          "rarity": "Starter",
+          "title": "Aim",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 1,
+          "text": "Turn one of your dice to a side showing ranged damage."
+        },
+        {
+          "image": "",
+          "card": 152,
+          "rarity": "Uncommon",
+          "title": "All In",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 1,
+          "text": "Resolve any number of your dice in the order of your choice."
+        },
+        {
+          "image": "",
+          "card": 153,
+          "rarity": "Common",
+          "title": "Block",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 2,
+          "text": "Remove all of an opponent's dice showing melee damage."
+        },
+        {
+          "image": "",
+          "card": 154,
+          "rarity": "Starter",
+          "title": "Close Quarters Assault",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 0,
+          "text": "Count the number of dice you have showing melee damage. Discard that many random cards from an opponent's hand."
+        },
+        {
+          "image": "",
+          "card": 155,
+          "rarity": "Common",
+          "title": "Dodge",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 2,
+          "text": "Remove all of an opponent's dice showing ranged damage."
+        },
+        {
+          "image": "",
+          "card": 156,
+          "rarity": "Uncommon",
+          "title": "Flank",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 1,
+          "text": "Play only if you have more ready characters than an opponent. Remove one of that opponent's dice."
+        },
+        {
+          "image": "",
+          "card": 157,
+          "rarity": "Common",
+          "title": "Take Cover",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Grey",
+          "type": "Event",
+          "cost": 0,
+          "text": "Give a character 1 shield."
+        },
+        {
+          "image": "",
+          "card": 158,
+          "rarity": "Common",
+          "title": "Disarm",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Remove one of your dice showing damage to discard a weapon or equipment from play that costs equal to or less than the value of that die."
+        },
+        {
+          "image": "",
+          "card": 159,
+          "rarity": "Uncommon",
+          "title": "Electroshock",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 1,
+          "text": "Spot a Yellow character to remove a die showing a value of 2 or lower."
+        },
+        {
+          "image": "",
+          "card": 160,
+          "rarity": "Uncommon",
+          "title": "Reversal",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 3,
+          "text": "Spot a Yellow character to remove a die showing damage and deal that damage to a character."
+        },
+        {
+          "image": "",
+          "card": 161,
+          "rarity": "Common",
+          "title": "Scramble",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Spot a Yellow character to reroll all of an opponent's dice."
+        },
+        {
+          "image": "",
+          "card": 162,
+          "rarity": "Common",
+          "title": "Unpredictable",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Event",
+          "cost": 0,
+          "text": "Ambush. Reroll a die (yours or an opponent's)."
+        },
+        {
+          "image": "",
+          "card": 163,
+          "rarity": "Uncommon",
+          "title": "Infamous",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Support",
+          "cost": 1,
+          "text": "Before you play a Yellow card, you may exhaust this support to give it the Ambush keyword."
+        },
+        {
+          "image": "",
+          "card": 164,
+          "rarity": "Common",
+          "title": "Hunker Down",
+          "side": false,
+          "unique": false,
+          "affiliation": "Neutral",
+          "color": "Yellow",
+          "type": "Upgrade",
+          "cost": 0,
+          "text": "If attached character takes melee damage, discard this upgrade. Action - Exhaust this upgrade to give attached character 1 shield."
+        },
+        {
+          "image": "",
+          "card": 165,
+          "rarity": "Uncommon",
+          "title": "Command Center- Lothal",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim - Each opponent discards the top 2 cards of their"
+        },
+        {
+          "image": "",
+          "card": 166,
+          "rarity": "Uncommon",
+          "title": "Echo Base- Hoth",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim - Give a character 1 shield."
+        },
+        {
+          "image": "",
+          "card": 167,
+          "rarity": "Uncommon",
+          "title": "Emperor's Throne Room- Death Star II",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim - Turn one of your dice to a side showing a special ability. Then you may resolve that die."
+        },
+        {
+          "image": "",
+          "card": 168,
+          "rarity": "Starter",
+          "title": "Frozen Wastes- Starkiller Base",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Remove one character die."
+        },
+        {
+          "image": "",
+          "card": 169,
+          "rarity": "Common",
+          "title": "Imperial Armory- Death Star",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Play an upgrade from your hand, decreasing its cost by 1."
+        },
+        {
+          "image": "",
+          "card": 170,
+          "rarity": "Common",
+          "title": "Jedi Temple- Coruscant",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Look at an opponent's hand and discard up to 2 events of your choice from it."
+        },
+        {
+          "image": "",
+          "card": 171,
+          "rarity": "Common",
+          "title": "Rebel War Room- Yavin IV",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Resolve one of your dice. If it has a resource cost, you do not have to pay it."
+        },
+        {
+          "image": "",
+          "card": 172,
+          "rarity": "Common",
+          "title": "Mos Eisley Spaceport- Tatooine",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Return one of your upgrades in play to your hand to gain 1 resource."
+        },
+        {
+          "image": "",
+          "card": 173,
+          "rarity": "Common",
+          "title": "Separatist Base- Mustafar",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Each opponent chooses and deals 1 unblockable damage to one of their characters."
+        },
+        {
+          "image": "",
+          "card": 174,
+          "rarity": "Starter",
+          "title": "Starship Graveyard- Jakku",
+          "side": false,
+          "unique": false,
+          "affiliation": "",
+          "color": "",
+          "type": "Battlefield",
+          "text": "Claim- Choose a support or upgrade in your discard pile and place it on top of your deck."
+        }
+      ]
+    }
+  ]
+}
