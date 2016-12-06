@@ -1,0 +1,447 @@
+{
+  "decks": [
+    {
+      "name": "Sample Deck",
+      "notes": "This is a sample deck.",
+      "revision":  "0.1",
+      "points": 29,
+      "won": 0,
+      "lost": 0,
+      "cards": [
+        {
+          "character": [
+            {
+              "image": "",
+              "card": 1,
+              "rarity": "Legendary",
+              "title": "Captain Phasma- Elite Trooper",
+              "side": true,
+              "unique": true,
+              "affiliation": "Villain",
+              "color": "Red",
+              "type": "Character",
+              "health": 11,
+              "points": 15,
+              "text": "Your non-unique characters have the Guardian keyword.",
+              "diceCount": 2,
+              "dice": [
+                {
+                  "image": "",
+                  "side": 1,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 2,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 3,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Focus",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 4,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Discard",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 5,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Resource",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 6,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Blank",
+                  "cost": 0
+                }
+              ]
+            },
+            {
+              "image": "",
+              "card": 2,
+              "rarity": "Rare",
+              "title": "First Order Stormtrooper",
+              "side": true,
+              "unique": false,
+              "affiliation": "Villain",
+              "color": "Red",
+              "type": "Character",
+              "health": 7,
+              "points": 7,
+              "text": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+              "diceCount": 1,
+              "dice": [
+                {
+                  "image": "",
+                  "side": 1,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 2,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 3,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 1
+                },
+                {
+                  "image": "",
+                  "side": 4,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Resource",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 5,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Blank",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 6,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Blank",
+                  "cost": 0
+                }
+              ]
+            },
+            {
+              "image": "",
+              "card": 2,
+              "rarity": "Rare",
+              "title": "First Order Stormtrooper",
+              "side": true,
+              "unique": false,
+              "affiliation": "Villain",
+              "color": "Red",
+              "type": "Character",
+              "health": 7,
+              "points": 7,
+              "text": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+              "diceCount": 1,
+              "dice": [
+                {
+                  "image": "",
+                  "side": 1,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 2,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 3,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 1
+                },
+                {
+                  "image": "",
+                  "side": 4,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Resource",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 5,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Blank",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 6,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Blank",
+                  "cost": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "upgrade": [
+            {
+              "image": "",
+              "card": 7,
+              "rarity": "Legendary",
+              "title": "Commanding Presence",
+              "side": true,
+              "unique": false,
+              "affiliation": "Villain",
+              "color": "Red",
+              "type": "Upgrade",
+              "cost": 3,
+              "text": "Red character only. Special - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it.",
+              "dice": [
+                {
+                  "image": "",
+                  "side": 1,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Focus",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 2,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Focus",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 3,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Disrupt",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 4,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Resource",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 5,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Special",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 6,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Special",
+                  "cost": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "support": [
+            {
+              "image": "",
+              "card": 5,
+              "rarity": "Legendary",
+              "title": "AT-ST",
+              "side": true,
+              "unique": false,
+              "affiliation": "Villain",
+              "color": "Red",
+              "type": "Support",
+              "cost": 6,
+              "text": "Special - Discard a support from play.",
+              "dice": [
+                {
+                  "image": "",
+                  "side": 1,
+                  "value": 3,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 2,
+                  "value": 4,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 3,
+                  "value": 5,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 1
+                },
+                {
+                  "image": "",
+                  "side": 4,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Shield",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 5,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Special",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 6,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Special",
+                  "cost": 0
+                }
+              ]
+            },
+            {
+              "image": "",
+              "card": 6,
+              "rarity": "Rare",
+              "title": "First Order TIE Fighter",
+              "side": true,
+              "unique": false,
+              "affiliation": "Villain",
+              "color": "Red",
+              "type": "Support",
+              "cost": 3,
+              "text": "Special - Remove all shield from all of an opponent's characters.",
+              "dice": [
+                {
+                  "image": "",
+                  "side": 1,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 2,
+                  "value": 2,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 3,
+                  "value": 3,
+                  "modification": 0,
+                  "type": "Range",
+                  "cost": 1
+                },
+                {
+                  "image": "",
+                  "side": 4,
+                  "value": 1,
+                  "modification": 0,
+                  "type": "Disrupt",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 5,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Special",
+                  "cost": 0
+                },
+                {
+                  "image": "",
+                  "side": 6,
+                  "value": 0,
+                  "modification": 0,
+                  "type": "Blank",
+                  "cost": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "event": [
+            {
+              "image": "",
+              "card": 157,
+              "rarity": "Common",
+              "title": "Take Cover",
+              "side": false,
+              "unique": false,
+              "affiliation": "Neutral",
+              "color": "Grey",
+              "type": "Event",
+              "cost": 0,
+              "text": "Give a character 1 shield."
+            }
+          ]
+        },
+        {
+          "battlefield": {
+            "image": "",
+            "card": 171,
+            "rarity": "Common",
+            "title": "Rebel War Room- Yavin IV",
+            "side": false,
+            "unique": false,
+            "affiliation": "",
+            "color": "",
+            "type": "Battlefield",
+            "text": "Claim- Resolve one of your dice. If it has a resource cost, you do not have to pay it."
+          }
+        }
+      ]
+    }
+  ],
+  "application": {
+    "name": "Yet Another Destiny Deck Builder App",
+    "version": "1.0a",
+    "url": "",
+    "developer": ""
+  }
+}
