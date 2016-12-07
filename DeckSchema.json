@@ -1,0 +1,364 @@
+{
+  "type": "object",
+  "properties": {
+    "decks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "revision": {
+            "type": "string"
+          },
+          "points": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 32767
+          },
+          "won": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 32767
+          },
+          "lost": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 32767
+          },
+          "cards": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "battlefield": {
+                  "type": "object",
+                  "properties": {
+                    "card": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "maximum": 32767
+                    },
+                    "rarity": {
+                      "type": "string"
+                    },
+                    "title": {
+                      "type": "string"
+                    },
+                    "unique": {
+                      "type": "boolean"
+                    },
+                    "affiliation": {
+                      "type": "string"
+                    },
+                    "color": {
+                      "type": "string"
+                    },
+                    "type": {
+                      "type": "string"
+                    },
+                    "text": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false
+                },
+                "event": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "card": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "rarity": {
+                        "type": "string"
+                      },
+                      "title": {
+                        "type": "string"
+                      },
+                      "unique": {
+                        "type": "boolean"
+                      },
+                      "affiliation": {
+                        "type": "string"
+                      },
+                      "color": {
+                        "type": "string"
+                      },
+                      "type": {
+                        "type": "string"
+                      },
+                      "cost": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "text": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "support": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "card": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "rarity": {
+                        "type": "string"
+                      },
+                      "title": {
+                        "type": "string"
+                      },
+                      "unique": {
+                        "type": "boolean"
+                      },
+                      "affiliation": {
+                        "type": "string"
+                      },
+                      "color": {
+                        "type": "string"
+                      },
+                      "type": {
+                        "type": "string"
+                      },
+                      "cost": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "text": {
+                        "type": "string"
+                      },
+                      "dice": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "side": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "value": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "modification": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "type": {
+                              "type": "string"
+                            },
+                            "cost": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "upgrade": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "card": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "rarity": {
+                        "type": "string"
+                      },
+                      "title": {
+                        "type": "string"
+                      },
+                      "unique": {
+                        "type": "boolean"
+                      },
+                      "affiliation": {
+                        "type": "string"
+                      },
+                      "color": {
+                        "type": "string"
+                      },
+                      "type": {
+                        "type": "string"
+                      },
+                      "cost": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "text": {
+                        "type": "string"
+                      },
+                      "dice": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "side": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "value": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "modification": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "type": {
+                              "type": "string"
+                            },
+                            "cost": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "character": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "card": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "rarity": {
+                        "type": "string"
+                      },
+                      "title": {
+                        "type": "string"
+                      },
+                      "unique": {
+                        "type": "boolean"
+                      },
+                      "affiliation": {
+                        "type": "string"
+                      },
+                      "color": {
+                        "type": "string"
+                      },
+                      "type": {
+                        "type": "string"
+                      },
+                      "health": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "points": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "text": {
+                        "type": "string"
+                      },
+                      "diceCount": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "dice": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "side": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "value": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "modification": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            },
+                            "type": {
+                              "type": "string"
+                            },
+                            "cost": {
+                              "type": "integer",
+                              "minimum": 0,
+                              "maximum": 32767
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "application": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "developer": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
