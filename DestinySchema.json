@@ -1,0 +1,106 @@
+{
+  "type": "object",
+  "properties": {
+    "sets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "cards": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "card": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 32767
+                },
+                "rarity": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "string"
+                },
+                "unique": {
+                  "type": "boolean"
+                },
+                "affiliation": {
+                  "type": "string"
+                },
+                "color": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "cost": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 32767
+                },
+                "dice": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "side": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "value": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "modification": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "type": {
+                        "type": "string"
+                      },
+                      "cost": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 32767
+                      },
+                      "text": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "health": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 32767
+                },
+                "points": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 32767
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
