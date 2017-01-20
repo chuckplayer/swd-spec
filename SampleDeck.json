@@ -12,6 +12,7 @@
           "character": [
             {
               "card": 1,
+              "set": "Awakenings",
               "rarity": "Legendary",
               "title": "Captain Phasma- Elite Trooper",
               "unique": true,
@@ -69,6 +70,7 @@
             },
             {
               "card": 2,
+              "set": "Awakenings",
               "rarity": "Rare",
               "title": "First Order Stormtrooper",
               "unique": false,
@@ -126,6 +128,7 @@
             },
             {
               "card": 2,
+              "set": "Awakenings",
               "rarity": "Rare",
               "title": "First Order Stormtrooper",
               "unique": false,
@@ -187,6 +190,7 @@
           "upgrade": [
             {
               "card": 7,
+              "set": "Awakenings",
               "rarity": "Legendary",
               "title": "Commanding Presence",
               "unique": false,
@@ -246,6 +250,7 @@
           "support": [
             {
               "card": 5,
+              "set": "Awakenings",
               "rarity": "Legendary",
               "title": "AT-ST",
               "unique": false,
@@ -301,6 +306,7 @@
             },
             {
               "card": 6,
+              "set": "Awakenings",
               "rarity": "Rare",
               "title": "First Order TIE Fighter",
               "unique": false,
@@ -360,6 +366,7 @@
           "event": [
             {
               "card": 157,
+              "set": "Awakenings",
               "rarity": "Common",
               "title": "Take Cover",
               "unique": false,
@@ -374,6 +381,7 @@
         {
           "battlefield": {
             "card": 171,
+            "set": "Awakenings",
             "rarity": "Common",
             "title": "Rebel War Room- Yavin IV",
             "unique": false,
