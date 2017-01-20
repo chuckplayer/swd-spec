@@ -43,6 +43,9 @@
                       "minimum": 0,
                       "maximum": 32767
                     },
+                    "set": {
+                      "type": "string"
+                    },
                     "rarity": {
                       "type": "string"
                     },
@@ -76,6 +79,9 @@
                         "type": "integer",
                         "minimum": 0,
                         "maximum": 32767
+                      },
+                      "set": {
+                       "type": "string"
                       },
                       "rarity": {
                         "type": "string"
@@ -116,6 +122,9 @@
                         "type": "integer",
                         "minimum": 0,
                         "maximum": 32767
+                      },
+                      "set": {
+                        "type": "string"
                       },
                       "rarity": {
                         "type": "string"
@@ -189,6 +198,9 @@
                         "minimum": 0,
                         "maximum": 32767
                       },
+                      "set": {
+                        "type": "string"
+                      },
                       "rarity": {
                         "type": "string"
                       },
@@ -260,6 +272,9 @@
                         "type": "integer",
                         "minimum": 0,
                         "maximum": 32767
+                      },
+                      "set": {
+                        "type": "string"
                       },
                       "rarity": {
                         "type": "string"
