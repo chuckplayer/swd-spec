@@ -4358,6 +4358,238 @@
 								"type": "Blank",
 								"cost": 0
 							}]
-						}]
+						},
+						{
+							"card": 3,
+							"rarity": "Legendary",
+							"title": "Director Krennic",
+							"unique": true,
+							"affiliation": "Villain",
+							"color": "Red",
+							"type": "Character",
+							"health": 12,
+							"points": [
+								15, 19
+							],
+							"text": "After you activate this character, if you control the battlefield, roll a Death Trooper die into your pool. Set aside that die after it is resolved or removed.",
+							"dice": [{
+								"side": 1,
+								"value": 2,
+								"modification": 0,
+								"type": "Range",
+								"cost": 0
+							}, {
+								"side": 2,
+								"value": 1,
+								"modification": 0,
+								"type": "Focus",
+								"cost": 0
+							}, {
+								"side": 3,
+								"value": 2,
+								"modification": 0,
+								"type": "Disrupt",
+								"cost": 0
+							}, {
+								"side": 4,
+								"value": 2,
+								"modification": 0,
+								"type": "Discard",
+								"cost": 0
+							}, {
+								"side": 5,
+								"value": 1,
+								"modification": 0,
+								"type": "Resource",
+								"cost": 0
+							}, {
+								"side": 6,
+								"value": 0,
+								"modification": 0,
+								"type": "Blank",
+								"cost": 0
+							}]
+						},
+						{
+							"card": 11,
+							"rarity": "Legendary",
+							"title": "Palpatine",
+							"unique": true,
+							"affiliation": "Villain",
+							"color": "Blue",
+							"type": "Character",
+							"health": 15,
+							"points": [
+								21, 28
+							],
+							"text": "After you resolve this die, force an opponent to deal 2 damage to their characters, distributed as they wish.",
+							"dice": [{
+								"side": 1,
+								"value": 2,
+								"modification": 0,
+								"type": "Range",
+								"cost": 0
+							}, {
+								"side": 2,
+								"value": 3,
+								"modification": 0,
+								"type": "Range",
+								"cost": 0
+							}, {
+								"side": 3,
+								"value": 2,
+								"modification": 0,
+								"type": "Discard",
+								"cost": 0
+							}, {
+								"side": 4,
+								"value": 2,
+								"modification": 0,
+								"type": "Shield",
+								"cost": 0
+							}, {
+								"side": 5,
+								"value": 1,
+								"modification": 0,
+								"type": "Resource",
+								"cost": 0
+							}, {
+								"side": 6,
+								"value": 0,
+								"modification": 0,
+								"type": "Blank",
+								"cost": 0
+							}]
+						},
+						{
+							"card": 14,
+							"rarity": "Legendary",
+							"title": "Force Lightning",
+							"unique": false,
+							"affiliation": "Villain",
+							"color": "Blue",
+							"type": "Upgrade",
+							"cost": 4,							
+							"text": "Special - Deal 1 damage to a character. You may remove a die showing a blank to reroll this die instead of removing it from your pool.",
+							"dice": [{
+								"side": 1,
+								"value": 2,
+								"modification": 0,
+								"type": "Range",
+								"cost": 0
+							}, {
+								"side": 2,
+								"value": 3,
+								"modification": 0,
+								"type": "Range",
+								"cost": 1
+							}, {
+								"side": 3,
+								"value": 4,
+								"modification": 0,
+								"type": "Range",
+								"cost": 1
+							}, {
+								"side": 4,
+								"value": 1,
+								"modification": 0,
+								"type": "Special",
+								"cost": 0
+							}, {
+								"side": 5,
+								"value": 1,
+								"modification": 0,
+								"type": "Special",
+								"cost": 0
+							}, {
+								"side": 6,
+								"value": 0,
+								"modification": 0,
+								"type": "Blank",
+								"cost": 0
+							}]
+						},
+						{
+							"card": 44,
+							"rarity": "Legendary",
+							"title": "Jyn Erso",
+							"unique": true,
+							"affiliation": "Hero",
+							"color": "Yellow",
+							"type": "Character",
+							"health": 11,
+							"points": [
+								15,20
+							],
+							"text": "The cost of the first Yellow event you play each round is decreased by 1.",
+							"dice": [{
+								"side": 1,
+								"value": 2,
+								"modification": 0,
+								"type": "Range",
+								"cost": 0
+							}, {
+								"side": 2,
+								"value": 2,
+								"modification": 0,
+								"type": "Range",
+								"cost": 0
+							}, {
+								"side": 3,
+								"value": 1,
+								"modification": 0,
+								"type": "Discard",
+								"cost": 0
+							}, {
+								"side": 4,
+								"value": 2,
+								"modification": 0,
+								"type": "Discard",
+								"cost": 0
+							}, {
+								"side": 5,
+								"value": 1,
+								"modification": 0,
+								"type": "Resource",
+								"cost": 0
+							}, {
+								"side": 6,
+								"value": 0,
+								"modification": 0,
+								"type": "Blank",
+								"cost": 0
+							}]
+						}, {
+							"card": 94,
+							"rarity": "Common",
+							"title": "Rebel Assault",
+							"unique": false,
+							"affiliation": "Hero",
+							"color": "Red",
+							"type": "Event",
+							"cost": 0,
+							"text": "Play only if you have one or more dice showing ranged damage.Remove an opponent's die not showing damage."
+						}, {
+							"card": 107,
+							"rarity": "Common",
+							"title": "Your Eyes Can Deceive You",
+							"unique": false,
+							"affiliation": "Hero",
+							"color": "Blue",
+							"type": "Support",
+							"cost": 1,
+							"text": "After one of your dice rolls a shield, you may exhaust this support to turn an opponent's die to any side."
+						}, {
+							"card": 115,
+							"rarity": "Common",
+							"title": "Never Tell Me The Odds",
+							"unique": false,
+							"affiliation": "Hero",
+							"color": "Yellow",
+							"type": "Event",
+							"cost": 3,
+							"text": "Choose one of your Yellow characters. Turn any number of its character and upgrade dice to sides of your choice."
+						}
+						]
 					}]
 				}
